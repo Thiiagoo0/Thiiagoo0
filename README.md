@@ -10,13 +10,7 @@ No dia a dia, estudo **Python**, **PHP**, **SQL**, **HTML** e **CSS**. Também e
 Estou em busca da minha primeira oportunidade profissional, seja estágio ou vaga de desenvolvedor júnior, para aplicar o que aprendi, crescer junto de uma equipe e continuar evoluindo.
 
   <p align="left">
-    <a href="https://github.com/Thiiagoo0?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Thiiagoo0?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+ </a>
     <a href="https://github.com/Thiiagoo0?tab=followers">
         <img 
             alt="Seguidores" 
